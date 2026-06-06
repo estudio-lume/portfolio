@@ -17,7 +17,7 @@ const inter = Inter({
   variable: "--font-inter",
 })
 
-const WHATSAPP = "5511999999999"
+const WHATSAPP = "5511957860345"
 const WA = `https://wa.me/${WHATSAPP}`
 const waLink = (msg: string) => `${WA}?text=${encodeURIComponent(msg)}`
 
